@@ -1,7 +1,7 @@
 </* style.css */
 body{
   background: rgb(245,245,245);
-  color: green;
+  color: red;
   font-size: 25px;
   font-family: Helvetica;
 }
@@ -15,7 +15,7 @@ h2 {
   font-family: Courier;
   color: pink;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 16px;
 }
 a {
   color: yellow;
@@ -33,7 +33,7 @@ a:hover {
   text-shadow: 1px 1px 5px black;
 }
 #banner h1 {
-  color: white;
+  color: pink;
   font-size: 50px;
 }
 #banner p {
@@ -52,7 +52,7 @@ a:hover {
   font-weight: lighter;
 }
 #footer a {
-  color: lightgrey;
+  color: pink;
   font-size: 15px;
 }
 #footer a:hover {
